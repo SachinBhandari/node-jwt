@@ -1,0 +1,4 @@
+module.exports = {
+  AUTH_TOKEN_EXPIRY_HOURS: 36000000,
+  SALT_ROUNDS: 500,
+};

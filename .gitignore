@@ -1,0 +1,6 @@
+.idea
+.vscode
+
+.env
+/.eslintcache
+node_modules
