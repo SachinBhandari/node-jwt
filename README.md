@@ -1,6 +1,6 @@
 # node-jwt
 
-A NodeJS and ExpressJS stater kit with jwt authentication integrated
+A NodeJS and ExpressJS starter kit with jwt authentication integrated
 
 ## Install
 
@@ -10,12 +10,15 @@ A NodeJS and ExpressJS stater kit with jwt authentication integrated
 
 `npm start`
 
+Make sure to rename file `.env.example` to `.env`
+
 ## Roadmap
 
 * Improve error handling.
+* Add CI support.
+* Create more robust eslint config.
 * Code quality
     * Use `async` `await`.
-    * Create more robust eslint config.
 
 ## Contribution
 
